@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="Suite">
+
+  <test name="Login-HappyTests">
+    <classes>
+      <class name="Seleinum_WebDriver.Automation_framework_monofia.LoginTest_HappyScenario"/>
+    </classes>
+  </test> <!-- Test -->
+  
+   <test name="Login-NegativeTests">
+    <classes>
+      <class name="Seleinum_WebDriver.Automation_framework_monofia.LoginTest_NegativeScenario"/>      
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
